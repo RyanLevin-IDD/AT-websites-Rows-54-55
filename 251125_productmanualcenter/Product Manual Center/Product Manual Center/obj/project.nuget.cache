@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuNIdoY2OFo=",
+  "success": true,
+  "projectFilePath": "F:\\IDD\\Projects\\AT\\251125_productmanualcenter\\Product Manual Center\\Product Manual Center\\Product Manual Center.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.web.webview2\\1.0.3650-prerelease\\microsoft.web.webview2.1.0.3650-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Product Manual Center.exe.config
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Product Manual Center.exe
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Product Manual Center.pdb
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product Manual Center.csproj.AssemblyReference.cache
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product_Manual_Center.AppWindow.resources
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product_Manual_Center.Properties.Resources.resources
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product Manual Center.csproj.GenerateResource.cache
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product Manual Center.csproj.CoreCompileInputs.cache
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product Manual Center.exe
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product Manual Center.pdb
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Microsoft.Web.WebView2.Core.dll
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Microsoft.Web.WebView2.Core.xml
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+F:\IDD\Projects\AT\251125_productmanualcenter\Product Manual Center\Product Manual Center\obj\Release\Product .6D2C9312.Up2Date

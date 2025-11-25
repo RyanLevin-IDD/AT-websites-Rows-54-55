@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\IDD\\Projects\\AT\\251125_productmanualcenter\\Product Manual Center\\Product Manual Center\\Product Manual Center.csproj": {}
+  },
+  "projects": {
+    "F:\\IDD\\Projects\\AT\\251125_productmanualcenter\\Product Manual Center\\Product Manual Center\\Product Manual Center.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\IDD\\Projects\\AT\\251125_productmanualcenter\\Product Manual Center\\Product Manual Center\\Product Manual Center.csproj",
+        "projectName": "Product Manual Center",
+        "projectPath": "F:\\IDD\\Projects\\AT\\251125_productmanualcenter\\Product Manual Center\\Product Manual Center\\Product Manual Center.csproj",
+        "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
+        "outputPath": "F:\\IDD\\Projects\\AT\\251125_productmanualcenter\\Product Manual Center\\Product Manual Center\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.3650-prerelease, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
